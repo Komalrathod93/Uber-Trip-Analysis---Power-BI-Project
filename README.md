@@ -16,8 +16,6 @@
 - Average Trip Duration : 16 minutes
 
 🕒 Time-Based Patterns 
-
-
 - Peak Hours : 12 PM – 6 PM → Highest demand & revenue  
 - Weekend Surge : Bookings & revenue 30% higher on Sat–Sun  
 - Off-Peak Hours : Minimal activity late nights & early mornings  
