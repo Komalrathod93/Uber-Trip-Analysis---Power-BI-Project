@@ -16,7 +16,7 @@
 - Average Trip Duration : 16 minutes
 
 🕒 Time-Based Patterns  
-- Peak Hours : 12 PM – 6 PM → Highest demand & revenue  
+-Peak Hours : 12 PM – 6 PM → Highest demand & revenue  
 - Weekend Surge : Bookings & revenue 30% higher on Sat–Sun  
 - Off-Peak Hours : Minimal activity late nights & early mornings  
 
@@ -27,9 +27,11 @@
 - Longest Trip : Lower East Side → Crown Heights North (144.1 miles)
 
 
+
 - Vehicle Preferences  
 - Most Booked : UberX → dominates with highest utilization  
 - Premium Rides : Uber Comfort & Uber Black generate higher revenue per ride but underutilized  
+
 
 
 🚀 Actionable Insights  
@@ -38,6 +40,7 @@
 - Promotions & Loyalty Programs → Increase engagement & retention  
 - Service Expansion  → More long-distance options & flexible payments
 - Customer Rewards → Encourage repeat bookings
+
 
 
 🎯 Conclusion
