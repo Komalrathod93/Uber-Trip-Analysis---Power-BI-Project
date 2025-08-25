@@ -17,9 +17,9 @@
 
 🕒 Time-Based Patterns 
 
--Peak Hours : 12 PM – 6 PM → Highest demand & revenue  
+-Peck Hours : 12 PM – 6 PM → Highest demand & revenue  
 - Weekend Surge : Bookings & revenue 30% higher on Sat–Sun  
-- Off-Peak Hours : Minimal activity late nights & early mornings  
+- Off-Peck Hours : Minimal activity late nights & early mornings  
 
 
 📍 Location Insights  
