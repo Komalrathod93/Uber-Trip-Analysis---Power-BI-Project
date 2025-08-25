@@ -1,4 +1,4 @@
-# Uber Trip Analysis - Power BI Project
+🚖 Uber Trip Analysis | Power BI Dashboard Project
 
  📌 Project Overview
   
@@ -18,9 +18,9 @@
 🕒 Time-Based Patterns 
 
 
--Peck Hours : 12 PM – 6 PM → Highest demand & revenue  
--Weekend Surge : Bookings & revenue 30% higher on Sat–Sun  
--Off-Peck Hours : Minimal activity late nights & early mornings  
+- Peck Hours : 12 PM – 6 PM → Highest demand & revenue  
+- Weekend Surge : Bookings & revenue 30% higher on Sat–Sun  
+- Off-Peck Hours : Minimal activity late nights & early mornings  
 
 
 📍 Location Insights  
