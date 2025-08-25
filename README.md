@@ -1,8 +1,7 @@
 # Uber Trip Analysis - Power BI Project
-This project uses Power BI to transform Uber trip data into actionable intelligence. By analyzing trends in demand, payments, and locations, it provides a practical decision-support tool for improving business performance, driver allocation, and overall customer satisfaction.
- 
+
  📌 Project Overview
-   This project analyzes Uber trip data to identify key insights such as demand trends, peak times, and customer behavior. The interactive Power BI dashboard helps stakeholders make data-driven decisions.
+  This project analyzes Uber trip data to identify key insights such as demand trends, peak times, and customer behavior. The interactive Power BI dashboard helps stakeholders make data-driven decisions.
 - Business performance  
 - Driver allocation  
 - Customer satisfaction
