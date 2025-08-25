@@ -26,9 +26,11 @@
 - Top Drop-off Spot : Upper East Side North  
 - Longest Trip : Lower East Side → Crown Heights North (144.1 miles)
 
+
 - Vehicle Preferences  
 - Most Booked : UberX → dominates with highest utilization  
 - Premium Rides : Uber Comfort & Uber Black generate higher revenue per ride but underutilized  
+
 
 🚀 Actionable Insights  
 - Dynamic Pricing → Maximize profitability during high demand  
@@ -36,6 +38,7 @@
 - Promotions & Loyalty Programs → Increase engagement & retention  
 - Service Expansion  → More long-distance options & flexible payments
 - Customer Rewards → Encourage repeat bookings
+
 
 🎯 Conclusion
  The Uber Trip Analysis converts raw data into strategic insights that highlight demand trends, rider preferences, and operational efficiencies.
