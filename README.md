@@ -18,9 +18,9 @@
 🕒 Time-Based Patterns 
 
 
-- Peck Hours : 12 PM – 6 PM → Highest demand & revenue  
+- Peak Hours : 12 PM – 6 PM → Highest demand & revenue  
 - Weekend Surge : Bookings & revenue 30% higher on Sat–Sun  
-- Off-Peck Hours : Minimal activity late nights & early mornings  
+- Off-Peak Hours : Minimal activity late nights & early mornings  
 
 
 📍 Location Insights  
@@ -43,7 +43,13 @@
 - Service Expansion  → More long-distance options & flexible payments
 - Customer Rewards → Encourage repeat bookings
 
-
+🛠 Tools & Skills
+- Power BI Desktop
+- DAX Measures
+- Bookmarks & Buttons
+- Data Modeling
+- Data Visualization
+- Time Series Analysis
 
 🎯 Conclusion
  The Uber Trip Analysis converts raw data into strategic insights that highlight demand trends, rider preferences, and operational efficiencies.
